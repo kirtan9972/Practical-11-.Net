@@ -51,7 +51,7 @@ Use the local URL printed in the terminal.
 ### Sample POST JSON
 ```json
 {
-  "studentName": "Preet Vora",
+  "studentName": "Kirtan Chauhan",
   "department": "Computer Engineering",
   "issue": "Wi-Fi Connectivity",
   "description": "Unable to connect to the campus Wi-Fi.",
